@@ -1,6 +1,6 @@
 ## Project 1: Catch Me If You Can!
 
-### Project Overview  
+### Overview  
 In this project, I analyzed a Business Email Compromise (BEC) scam targeting a company through phishing emails. Using Wireshark to inspect `.pcap` files, I identified fraudulent emails and uncovered the malicious actor responsible for the attack.
 
 ---
